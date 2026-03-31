@@ -1,0 +1,4 @@
+[submodule "EglimarTineo/odoo-venezuela"]
+	path = EglimarTineo/odoo-venezuela
+	url = git@github.com:EglimarTineo/odoo-venezuela.git
+	branch = 19.0
