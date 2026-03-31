@@ -2,3 +2,8 @@
 	path = EglimarTineo/odoo-venezuela
 	url = git@github.com:EglimarTineo/odoo-venezuela.git
 	branch = 19.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 19.0
